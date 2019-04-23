@@ -1,0 +1,9 @@
+login_valido:
+  nome: Gabriela Teste
+  email: gabriela_teste@mailinator.com
+  telefone: 11123456789
+
+login_invalido:
+  nome: ab
+  email: gabriela_teste.com
+  telefone: 12345
